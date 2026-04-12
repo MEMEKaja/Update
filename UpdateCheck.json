@@ -1,7 +1,7 @@
 {
-  "version": "14.0.0",
-  "lib_url": "https://github.com/MEMEKaja/Update/releases/download/Main13/audio.bin",
-  "size": 4696640,
-  "sha256": "af406ec10a3d7c70253c6d9adadaca81c539758e6f70fdca58f8a8bdcd577bb3",
-  "min_app_version": 14
+  "version": "15.0.0",
+  "lib_url": "https://github.com/MEMEKaja/Update/releases/download/Main14/audio.bin",
+  "size": 4696656,
+  "sha256": "a3b5d4b05c41d4e7f6abcc572c53c03cd7e49392c8e62b36db0c0a59f08b7864",
+  "min_app_version": 15
 }
