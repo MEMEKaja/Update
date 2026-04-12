@@ -1,7 +1,7 @@
 {
-  "version": "11.0.0",
+  "version": "12.0.0",
   "lib_url": "https://github.com/MEMEKaja/Update/releases/download/Main11/audio.bin",
   "size": 4696640,
   "sha256": "af406ec10a3d7c70253c6d9adadaca81c539758e6f70fdca58f8a8bdcd577bb3",
-  "min_app_version": 11
+  "min_app_version": 12
 }
