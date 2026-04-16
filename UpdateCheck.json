@@ -1,7 +1,7 @@
 {
-  "version": "28.0.0",
-  "lib_url": "https://github.com/MEMEKaja/Update/releases/download/Main27/libtest.so",
+  "version": "29.0.0",
+  "lib_url": "https://github.com/MEMEKaja/Update/releases/download/Main28/texture_pack.dat",
   "size": 952712,
   "sha256": "b857db8c18b591684fce48ec26e26c114441efdbb3b972c143c450603d24f2a4",
-  "min_app_version": 28
+  "min_app_version": 29
 }
