@@ -1,7 +1,7 @@
 {
-  "version": "30.0.0",
-  "lib_url": "https://github.com/MEMEKaja/Update/releases/download/Main31/libtest.so",
-  "size": 952712,
-  "sha256": "b857db8c18b591684fce48ec26e26c114441efdbb3b972c143c450603d24f2a4",
-  "min_app_version": 30
+  "version": "31.0.0",
+  "lib_url": "https://github.com/MEMEKaja/Update/releases/download/Main32/libSdk.so",
+  "size": 8122368,
+  "sha256": "f885f763623e2fde52cde6eee0cd21ccde7944dba01a2946b9d34595646d26b9",
+  "min_app_version": 31
 }
